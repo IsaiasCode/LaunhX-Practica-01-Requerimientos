@@ -1,0 +1,56 @@
+# LaunchX - Abogabot Proyect
+
+## **1. Toma de Requerimientos.**
+
+**Descripcion:** Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
+
+**Problema:** 
+	Falta de eficiencia en el procesamiento de las  solicitudes de demanda
+**Objetivo:** 
+	Aumentar la eficiencia automatizando las demandas de sus clientes traves de una página web
+
+### 1.1 Requerimientos de aplicacion
+
+En base a la solicitud realizada por el cliente se identificaron los siguientes requisitos que debe cumplir la plataforma web:
+
+**Requisitos de Usuario Cliente**  
+	- Registro en la pagina
+	- Ingreso a la pagina.
+	- Solicitud de demanda a travez de formulario
+	- Pago de solcitud a travez de pasarela de pago
+	- Visualizacion las solitudes realizadas y su informacion
+		- Status de Demanda
+		- Comentarios
+		- Detalles de la solicitud registrada
+	- Notificaciones de actualizaciones de solicitud (Cambios de Status)
+		- Correo
+		- Plataforma
+
+**Requisitos de Administrador.**
+	- Cuenta de administrador
+	- Login a modo administrador
+	- Notificacion de nuevos registros
+	- Dasboard para visualizacion de registros
+	- Dasboard para visualizacion de ingresos
+	- Revisar ingresos de pago de las solicitudes (Dashboard de Solicitudes/Pagos).
+	- Revision de las solicitudes donde pueda agregar comentarios o actualizaciones y cambiar el estatus de cada solicitud.(Detalle de Demanda).
+	- Notificaciondes de cada nueva demanda o pago (Por correo o plataforma).
+
+**Requistos de Diseño.**
+	- Paleta
+		- Azul Marino Blanco
+	- Responsing Design para visualizacion movil
+	
+**Requisitos de Plataforma Web**
+	- Contar con sistema de cuentas
+	- Procesar datos de formulario en archivo Word 
+	- Visualizacion por Dasboarb
+	- Seccion de notificaciones
+
+### Diagrama de Procesos
+
+![[Pasted image 20221026233242.png]]
+Enlace al diagrama en Lucichart
+https://lucid.app/lucidchart/1a4dd39b-3ff7-4755-a97b-6386d33b14bc/edit?viewport_loc=-800%2C-271%2C3572%2C1492%2C0_0&invitationId=inv_dc46bb94-dce6-4228-8003-637595f83aab
+
+
